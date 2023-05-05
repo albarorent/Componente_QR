@@ -30,7 +30,7 @@ img{
 
 
 
-.div__contenedor{
+.contenedor{
     display: grid;
     background-color: var(--color-contenedor);
     place-items: center;
